@@ -1,0 +1,38 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBETools", "MBETools\MBETools.csproj", "{0F9B6B7A-5032-4983-BBCB-AE351344F13A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mictlanix.BE.Model", "..\mbe\Model\Mictlanix.BE.Model.csproj", "{F9363BAC-A7BB-4A77-81E0-892C8CCCD297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mictlanix.BE.Resources", "..\mbe\Resources\Mictlanix.BE.Resources.csproj", "{CBB1BA70-351E-4009-86FB-484810DC6364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mictlanix.CFDLib", "..\mbe\CFDLib\Mictlanix.CFDLib.csproj", "{63EBACD8-7BB0-480F-81BF-5E0690B27112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9B6B7A-5032-4983-BBCB-AE351344F13A}.Debug|x86.ActiveCfg = Debug|x86
+		{0F9B6B7A-5032-4983-BBCB-AE351344F13A}.Debug|x86.Build.0 = Debug|x86
+		{0F9B6B7A-5032-4983-BBCB-AE351344F13A}.Release|x86.ActiveCfg = Release|x86
+		{0F9B6B7A-5032-4983-BBCB-AE351344F13A}.Release|x86.Build.0 = Release|x86
+		{63EBACD8-7BB0-480F-81BF-5E0690B27112}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{63EBACD8-7BB0-480F-81BF-5E0690B27112}.Debug|x86.Build.0 = Debug|Any CPU
+		{63EBACD8-7BB0-480F-81BF-5E0690B27112}.Release|x86.ActiveCfg = Release|Any CPU
+		{63EBACD8-7BB0-480F-81BF-5E0690B27112}.Release|x86.Build.0 = Release|Any CPU
+		{CBB1BA70-351E-4009-86FB-484810DC6364}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CBB1BA70-351E-4009-86FB-484810DC6364}.Debug|x86.Build.0 = Debug|Any CPU
+		{CBB1BA70-351E-4009-86FB-484810DC6364}.Release|x86.ActiveCfg = Release|Any CPU
+		{CBB1BA70-351E-4009-86FB-484810DC6364}.Release|x86.Build.0 = Release|Any CPU
+		{F9363BAC-A7BB-4A77-81E0-892C8CCCD297}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F9363BAC-A7BB-4A77-81E0-892C8CCCD297}.Debug|x86.Build.0 = Debug|Any CPU
+		{F9363BAC-A7BB-4A77-81E0-892C8CCCD297}.Release|x86.ActiveCfg = Release|Any CPU
+		{F9363BAC-A7BB-4A77-81E0-892C8CCCD297}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MBETools\MBETools.csproj
+	EndGlobalSection
+EndGlobal
